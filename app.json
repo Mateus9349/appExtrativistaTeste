@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "extra": {
+      "eas": {
+        "projectId": "4122adff-973d-490d-a17e-6ebf702330f7"
+      }
+    },
+    "android": {
+      "package": "com.mateus9349.inatuamazonia"
+    }
+  }
+}
